@@ -50,7 +50,8 @@ The minimal policy for Lola looks like this:
 
 If you want to use Lola for only one resource type (i.e. Cloudwatch Logs) you can do that:
 
-```{
+```
+{
     "Version": "2012-10-17",
     "Statement": [
         {
