@@ -12,6 +12,9 @@ We are currently in an invite-only developer preview. You can request access [he
 ### What platforms are supported?
 Lola runs on Windows, macOS & Linux (Ubuntu 20.04).
 
+### Where can I find a Changelog?
+We keep track of our changes [here](CHANGELOG.md).
+
 ### How does Lola connect to my AWS account?
 
 Lola uses the [profiles](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) stored in the `.aws` folder in your home directory exactly as the official AWS CLI does. Lola only reads this file to set up the SDK we [use](https://github.com/aws/aws-sdk-cpp#aws-sdk-for-c). Lola supports AWS SSO and other credential providers like `aws-vault` to keep your account secure.
