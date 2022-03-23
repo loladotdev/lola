@@ -44,9 +44,9 @@ body:
       label: "Operating System"
       multiple: false
       options:
-        - MacOS
-        # - Windows
-        # - Linux
+        - macOS
+        - Linux
+        - Windows        
     validations:
       required: false
   - type: input
