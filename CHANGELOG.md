@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.6.0 _(Apr 4, 2022)_
+- News & Promotion screen
+- Limit search filter (`/`) to types index.
+
 ## v0.5.1 _(Apr 1, 2022)_
 - DynamoDB view
 - Cloudwatch Logs: Add "expand all messages" mode
