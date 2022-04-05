@@ -2,7 +2,7 @@
 
 ## v0.6.0 _(Apr 4, 2022)_
 - News & Promotion screen
-- Limit search filter (`/`) to types index.
+- Limit search filter (`/`) to indexed types.
 
 ## v0.5.1 _(Apr 1, 2022)_
 - DynamoDB view
