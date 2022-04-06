@@ -8,3 +8,8 @@ Please find additional information in our wiki:
 
 * [FAQ](https://github.com/loladotdev/lola/wiki/FAQ)
 * [Settings](https://github.com/loladotdev/lola/wiki/Settings)
+
+
+
+![This is an image](lola.png)
+*DynamoDB view*
