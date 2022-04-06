@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.6.1 _(Apr 6, 2022)_
+- Search across profiles (https://github.com/loladotdev/lola/issues/4)
+- Settings to use default browser (https://github.com/loladotdev/lola/issues/3)
+
 ## v0.6.0 _(Apr 4, 2022)_
 - News & Promotion screen
 - Limit search filter (`/`) to indexed types.
