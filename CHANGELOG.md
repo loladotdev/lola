@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.6.4 _(Apr 21, 2022)_
+- Fix visual bugs in DynamoDB tables with line breaks & spaces.
+- Fix visual bugs in search for step functions.
+- Adds in-app report a bug link.
+
 ## v0.6.1 _(Apr 6, 2022)_
 - Search across profiles (https://github.com/loladotdev/lola/issues/4)
 - Settings to use default browser (https://github.com/loladotdev/lola/issues/3)
