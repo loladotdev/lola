@@ -1,5 +1,11 @@
 # Changelog
 
+## Upcoming: v0.6.5 _(May 11, 2022)_
+- DynamoDB: Expander view (double click a cell)
+- Adds support for assume role providers (https://github.com/loladotdev/lola/issues/1)
+- Adds support to define a redirect URL template (https://github.com/loladotdev/lola/issues/9) 
+- Fix floating search history bug (https://github.com/loladotdev/lola/issues/10)
+
 ## v0.6.4 _(Apr 21, 2022)_
 - Fix visual bugs in DynamoDB tables with line breaks & spaces.
 - Fix visual bugs in search for step functions.
