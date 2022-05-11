@@ -1,6 +1,6 @@
 # Changelog
 
-## Upcoming: v0.6.5 _(May 11, 2022)_
+## v0.6.5 _(May 11, 2022)_
 - DynamoDB: Expand cell view (double click a cell and click expand icon)
 - Adds support for assume role providers (https://github.com/loladotdev/lola/issues/1)
 - Adds support to define a redirect URL template (https://github.com/loladotdev/lola/issues/9) 
