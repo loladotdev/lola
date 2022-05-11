@@ -3,7 +3,7 @@
 ## v0.6.5 _(May 11, 2022)_
 - DynamoDB: Expand cell view (double click a cell and click expand icon)
 - Adds support for assume role providers (https://github.com/loladotdev/lola/issues/1)
-- Adds support to define a redirect URL template (https://github.com/loladotdev/lola/issues/9) 
+- Adds support to [define a redirect URL template](https://github.com/loladotdev/lola/wiki/Settings#custom-url-template) (https://github.com/loladotdev/lola/issues/9) 
 - Fix floating filter history bug in Cloudwatch Logs (https://github.com/loladotdev/lola/issues/10)
 
 ## v0.6.4 _(Apr 21, 2022)_
