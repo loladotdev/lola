@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.6.6 _(May 31, 2022)_
+- Logs: Fixes old logs not clearing after refresh issue (https://github.com/loladotdev/lola/issues/14)
+- Search: Don't show suggestions for deleted resources.
+- Tabs: Don't try opening tabs on launch for deleted resources.
+
 ## v0.6.5 _(May 11, 2022)_
 - DynamoDB: Expand cell view (double click a cell and click expand icon)
 - Adds support for assume role providers (https://github.com/loladotdev/lola/issues/1)
