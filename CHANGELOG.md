@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.6.7 _(June 3, 2022)_
+- DynamoDB: Fixes rich text content parsing (https://github.com/loladotdev/lola/issues/15)
+
 ## v0.6.6 _(May 31, 2022)_
 - Logs: Fixes old logs not clearing after refresh issue (https://github.com/loladotdev/lola/issues/14)
 - Search: Don't show suggestions for deleted resources.
