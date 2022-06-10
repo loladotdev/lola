@@ -2,7 +2,7 @@
 
 ## v0.6.8 _(June 10, 2022)_
 - Config: Take `$PATH` into account for credential process providers (https://github.com/loladotdev/lola/issues/13)
-- Logs: Bugfix that fixes crashes when opening log groupd with empty log lines.
+- Logs: Bugfix that fixes crashes when opening log groups with empty log lines.
 
 ## v0.6.7 _(June 3, 2022)_
 - DynamoDB: Fixes rich text content parsing (https://github.com/loladotdev/lola/issues/15)
