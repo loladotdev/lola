@@ -6,7 +6,7 @@
   - Format and highlight JSON in log events (https://github.com/loladotdev/lola/issues/18)
   - Show timestamps in ISO format. Add option to toggle between UTC and local timezone (https://github.com/loladotdev/lola/issues/24)
   - Bugfix for loading log events out of order (https://github.com/loladotdev/lola/issues/23)
-- Add keyboard shortcut `Cmd + F` to open the AWS console (https://github.com/loladotdev/lola/issues/19)
+- Add keyboard shortcut `Cmd + O` to open the AWS console (https://github.com/loladotdev/lola/issues/19)
 
 ## v0.6.8 _(June 10, 2022)_
 - Config: Take `$PATH` into account for credential process providers (https://github.com/loladotdev/lola/issues/13)
