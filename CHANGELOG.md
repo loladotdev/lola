@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.7.4 _(October 28, 2022)_
+- Fix macOS Ventura (13.0) incompatilbity issues
+  - App had to be re-resigned for Ventura, you might see `Lola.app is damaged and can't be opened` error if you'r using a version <0.7.4 on Ventura. You can still open Lola by right-clicking the app and selecting `Open` run the update from within the app.
+
 ## v0.6.9 _(July 22, 2022)_
 - Cloudwatch Logs: 
   - Add option to copy all loaded log events to the clipboard (https://github.com/loladotdev/lola/issues/17)
