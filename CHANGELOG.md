@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.7.6 _(March 20, 2023)_
+- SSO: Fix missing `expiresAt` in SSO token (https://github.com/loladotdev/lola/issues/25)
+
 ## v0.7.4 _(October 28, 2022)_
 - Fix macOS Ventura (13.0) incompatilbity issues
   - App had to be re-resigned for Ventura, you might see `Lola.app is damaged and can't be opened` error if you'r using a version <0.7.4 on Ventura. You can still open Lola by right-clicking the app and selecting `Open` run the update from within the app.
